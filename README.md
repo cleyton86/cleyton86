@@ -3,7 +3,8 @@
 Cleyton Correa
 CTO @Misstec.
 
-[GitHub](http://github.com/cleyton86)
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 
 Enthusiast of the best web & mobile development technologies.
 
