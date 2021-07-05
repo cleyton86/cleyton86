@@ -3,7 +3,7 @@
 Cleyton Correa
 CTO @Misstec.
 
-Twitter Badge Linkedin Badge Gmail Badge
+[GitHub](http://github.com/cleyton86)
 
 Enthusiast of the best web & mobile development technologies.
 
